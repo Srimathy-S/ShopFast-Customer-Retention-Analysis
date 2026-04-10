@@ -29,7 +29,7 @@ ShopFast-Analysis/
 │
 ├── SQL_queries.sql     # SQL analysis (Part 2)
 │
-├──executive_summary.pptx
+├──executive_summary_report.pptx
 └── README.md
 ```
 
