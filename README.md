@@ -44,19 +44,18 @@ pip install pandas matplotlib seaborn
 
 2. Open the Python file:
 ```
-analysis.py
+Analysis.py
 ```
 
 3. Run the script:
 - In VS Code / Jupyter Notebook → Run all cells  
 - OR using terminal:
 ```
-python analysis.py
+python Analysis.py
 ```
 
 4. Output:
-- Cleaned dataset will be generated  
-- Charts will be displayed and can be saved as images  
+- Cleaned dataset will be generated and Charts will be displayed 
 
 ---
 
